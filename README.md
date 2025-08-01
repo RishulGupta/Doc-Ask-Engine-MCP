@@ -1,7 +1,11 @@
 ## 🗨️**Doc Ask Engine MCP**
 
 A customizable, agent-powered GenAI chatbot for querying your own documents and data — originally built for **Naukri.com** to automate HR policy queries.
-
+<div align="center">
+<img src="https://github.com/RishulGupta/Doc-Ask-Engine-MCP/blob/9c6d4bd6a6a88285a363ba010a2f7a6430497b03/Screenshot%202025-08-01%20112446.png"width=500 height=800>
+<img src="https://github.com/RishulGupta/Doc-Ask-Engine-MCP/blob/9c6d4bd6a6a88285a363ba010a2f7a6430497b03/Screenshot%202025-08-01%20112741.png" width=400 height=500>
+ </div>
+ 
 ---
 
 ## 🔍 What is Doc Ask Engine MCP?
