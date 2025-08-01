@@ -88,7 +88,7 @@ You’ll see the server starting up.
 
 📡 **Endpoint:** `http://127.0.0.2:8000/mcp/ask_faiss`
 
-Send a POST request with:
+Send a request with:
 
 ```json
 {
